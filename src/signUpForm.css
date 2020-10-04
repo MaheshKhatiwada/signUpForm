@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  width: 50%;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: #babecc;
+  text-align: center;
+  text-shadow: 1px 1px 1px #fff;
+}
+input,
+select {
+  margin-right: 8px;
+  box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #fff;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: -0.2px;
+  background-color: #ebecf0 !important;
+  text-shadow: 1px 1px 0 #fff;
+  border-radius: 500px !important;
+}
